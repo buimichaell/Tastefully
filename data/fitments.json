@@ -1,0 +1,38 @@
+[
+  {
+    "car": "2022-2026 WRX",
+    "style": "aggressive",
+    "wheel": "18x9.5 +22",
+    "tire": "215/40",
+    "camber": "-5",
+    "suspension": "air",
+    "warnings": [
+      "high tire stretch",
+      "risk of debeading",
+      "likely rubbing without fender work"
+    ]
+  },
+  {
+    "car": "2022-2026 WRX",
+    "style": "daily",
+    "wheel": "18x9.5 +38",
+    "tire": "255/35",
+    "camber": "-2",
+    "suspension": "coilovers",
+    "warnings": [
+      "minimal rubbing",
+      "daily friendly"
+    ]
+  },
+  {
+    "car": "2022-2026 WRX",
+    "style": "flush",
+    "wheel": "18x9.5 +35",
+    "tire": "245/40",
+    "camber": "-2.5",
+    "suspension": "coilovers",
+    "warnings": [
+      "may rub under compression"
+    ]
+  }
+]

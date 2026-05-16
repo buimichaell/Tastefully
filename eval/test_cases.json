@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "input": "2025 WRX aggressive stance 18x9.5 +22 215/40 air suspension",
+    "must_include": ["tire stretch", "debeading", "camber"],
+    "must_not_include": ["0 camber is safe"]
+  },
+  {
+    "id": 2,
+    "input": "daily driven WRX mild stance 18x9.5 +38 255/35",
+    "must_include": ["daily", "minimal rubbing"],
+    "must_not_include": ["extreme stretch"]
+  },
+  {
+    "id": 3,
+    "input": "WRX flush fitment 18x9.5 +35 coilovers",
+    "must_include": ["flush", "rubbing"],
+    "must_not_include": ["no risk"]
+  },
+  {
+    "id": 4,
+    "input": "aggressive show build WRX 18x10 +20 225/35",
+    "must_include": ["stretch", "camber"],
+    "must_not_include": ["safe at stock camber"]
+  },
+  {
+    "id": 5,
+    "input": "safe daily WRX setup no rubbing priority",
+    "must_include": ["safe", "daily", "comfort"],
+    "must_not_include": ["aggressive stance recommendation"]
+  },
+  {
+    "id": 6,
+    "input": "WRX air suspension slammed fitment 18x9.5 +22",
+    "must_include": ["air suspension", "rubbing"],
+    "must_not_include": ["no issues"]
+  },
+  {
+    "id": 7,
+    "input": "beginner WRX wheels 18x8.5 +45 245/40",
+    "must_include": ["safe", "beginner"],
+    "must_not_include": ["stretch"]
+  },
+  {
+    "id": 8,
+    "input": "track WRX setup 18x9.5 +40 255/35",
+    "must_include": ["performance", "grip"],
+    "must_not_include": ["stretch setup"]
+  },
+  {
+    "id": 9,
+    "input": "stance WRX fitment extreme -5 camber 18x9.5 +20",
+    "must_include": ["camber", "stance"],
+    "must_not_include": ["safe daily driver"]
+  },
+  {
+    "id": 10,
+    "input": "WRX OEM+ clean fitment 18x8.5 +48 235/40",
+    "must_include": ["OEM+", "safe", "clean"],
+    "must_not_include": ["aggressive stretch"]
+  }
+]
